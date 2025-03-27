@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="bg-secondary text-white min-vh-100 p-4">
       <div className="text-center mt-4">
-        <img src="/public/rino.png" alt="imagen" className="image-hover-effect" />
+        <img src="/rino.png" alt="rino" className="image-hover-effect" />
       </div>
       <Question
         question="¿EN QUÉ CONSISTE LA RINOPLASTIA?"

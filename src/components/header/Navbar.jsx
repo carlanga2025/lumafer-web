@@ -11,7 +11,7 @@ const Navbar = () => {
         <div className="container-fluid">
           <a className="navbar-brand d-flex align-items-center" href="#">
             <img
-              src="/public/image_transparent.png"
+              src="/image_transparent.png"
               className="img-fluid"
               alt="logo"
               width={130}
