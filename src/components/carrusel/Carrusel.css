@@ -1,0 +1,21 @@
+.custom-carousel-btn {
+  color: #333;
+  width: 50px;
+  height: 50px;
+  background-color: var(--bs-secondary) !important;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0.5;
+}
+.custom-carousel-btn span {
+  filter: invert(1);
+}
+
+.custom-carousel-btn span {
+  filter: invert(1);
+}
